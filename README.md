@@ -1,5 +1,6 @@
-### Welcome to [Pandede](https://github.com/Pandede) Github homepage! 👋
-
+### Hello from [Pandede](https://github.com/Pandede) 👋
+![](https://img.shields.io/github/followers/Pandede?style=flat-square&color=orange)
+![](https://visitor-badge.glitch.me/badge?page_id=Pandede.Pandede&style=flat-square&right_color=orange)
 #### About me
 *:hammer: I'm currently working on...*
 - AI backend integration and development ⚡
